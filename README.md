@@ -19,7 +19,8 @@ Download the trained model (.pkl file):
 ## System Architecture
 <img width="608" height="669" alt="Screenshot 2025-11-09 181338" src="https://github.com/user-attachments/assets/c62aed2a-1a10-48bb-898b-88bdd69e0eb6" />
 
-## Added Kali Linux step-by-step screenshots
+##PACKET/CAPTURING USING KALI LINUX
+# Added Kali Linux step-by-step screenshots
 #step 1:
 ![IMG-20251109-WA0001](https://github.com/user-attachments/assets/9b1daed5-7b56-4f11-bb6b-31d7b23d52ef)
 
