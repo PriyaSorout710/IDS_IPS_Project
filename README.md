@@ -42,6 +42,27 @@ Download the trained model (.pkl file):
 ![IMG-20251109-WA0005](https://github.com/user-attachments/assets/f4b74e77-f87c-4f76-9915-0794ec12f9d2)
 
 
+## 🔗SIMULATION DETECTION 
+STEP 1:
+
+<img width="481" height="69" alt="image" src="https://github.com/user-attachments/assets/8e73c77b-524e-4857-8ecd-c37ed72288ef" />
+
+STEP 2:
+
+<img width="575" height="506" alt="image" src="https://github.com/user-attachments/assets/b65eca44-bfb9-41bc-9692-ee2451d690ac" />
+
+STEP 3:
+
+<img width="725" height="482" alt="image" src="https://github.com/user-attachments/assets/842d7baf-42b6-4b1c-a78a-a9cc41d740d7" />
+
+STEP 4:
+
+<img width="1354" height="509" alt="image" src="https://github.com/user-attachments/assets/c9674650-112c-44c2-8fe0-471d23a13b21" />
+
+
+
+
+
 
 
 
